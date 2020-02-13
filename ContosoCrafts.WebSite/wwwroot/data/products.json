@@ -8,6 +8,12 @@
     "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
     "Ratings": [
       5,
+      5,
+      3,
+      2,
+      4,
+      5,
+      5,
       5
     ]
   },
@@ -117,7 +123,11 @@
     "Url": "https://www.vogueandcode.com/shop/ruby-sis-2",
     "Title": "Ruby Sis",
     "Description": "Styled in a dashiki, Ruby Sis is listening to music while coding in her favorite language, Ruby!",
-    "Ratings": null
+    "Ratings": [
+      3,
+      5,
+      5
+    ]
   },
   {
     "Id": "selinazawacki-moon",
